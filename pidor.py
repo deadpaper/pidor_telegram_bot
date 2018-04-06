@@ -1,6 +1,4 @@
-﻿import telebot
-
-#from telebot import apihelper
+import telebot
 
 import config
 
@@ -14,15 +12,6 @@ import random
 
 import re
 
-#help(apihelper)
-#telebot.apihelper.proxy = {'http':'n.ivanovskiy:345ERT6y@10.5.0.9:3128'}
-
-#s = requests.session()
-#s.proxies = {"http":"n.ivanovskiy:345ERT6y@10.5.0.9:3128"}
-#r = s.get("http://www.google.com")
-#print(r.text)
-
-#Proxy = {'host':"10.5.0.9","port":"3128","username":"n.ivanovskiy","password"}
 bot = telebot.TeleBot(config.token)
 
 idutvibori = []
