@@ -1,6 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 
-token = '439615805:AAEcRKjDGC9W4pu2hJmgkymTMBSZBVFdt8s'
+token = 't8s'
 obyava = ''
 chat_id = -1001037813762
 admins = [52527543,52268620]
